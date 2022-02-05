@@ -1,0 +1,410 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  padding: 0.7rem 2rem;
+  z-index: 1;
+  width: 100%;
+  background: #F4F4F4;
+  
+  border: 1px solid #a59494;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ 
+}
+
+.img {
+  background-image: url("istockphoto-1126943934-612x612.jpg");
+  background-repeat: repeat;
+  background-size: auto;
+  margin-left: 0;
+  margin-right: 0;
+  height: 100%;
+ 
+}
+.btn4{
+  position: left;
+  width: 97px;
+  height: 23px;
+  
+  top: 700px;
+  
+  background: #cfdaa0;
+}
+.btn5{
+  border-radius: 25px;
+  margin: 0;
+  width: 97px;
+  height: 23px;
+  
+  top: 700px;
+  
+  background: #1577c7;
+}
+.btn6{
+  border-radius: 25px;
+  margin-right: 0;
+  width: 97px;
+  height: 23px;
+  text-decoration: none;
+  top: 700px;
+  
+  background: #b3d2ec;}
+.btn3{
+  position: right;
+  width: 97px;
+  height: 23px;
+  
+  top: 700px;
+  
+  background: #cfdaa0;
+}
+.img2{
+  background-image: url("gettyimages-1084413806-612x612.jpg");
+  background-size: cover;
+  height:100%;
+}
+
+.Blog {
+  object-position: center;
+  text-align: center;
+  width: 80%;
+  margin:auto  ;
+  
+  background-color: rgb(243, 251, 253);
+  
+  
+  box-shadow: 0px 4px 4px rgba(99, 194, 248, 0.25);
+}
+.Logout{
+  border-radius: 25px;
+  width: 158px;
+height: 35px;
+border-color: rgb(235, 243, 188);
+background: #e5f5c7;
+}
+.Navbar2{
+  width:100%;
+  text-align: left;
+  
+  margin: auto;
+  background: #F1E9E9;
+}
+.Form{
+  position: center;
+width: 303px;
+height: 49px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+}
+.text{
+  position: center;
+font-family:cursive;
+
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+
+color: #264922;
+
+}
+.commets{
+  object-position: center;
+  text-align :left ;
+  width: 60%;
+  margin:auto  ;
+  background: #E3F4E5;
+}
+.Form2{
+  color:rgb(2, 2, 2);
+  position: center;
+  width: 303px;
+  height: 49px;
+  border-radius: 15px;
+  background: #ffffff;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  
+  top: 200px;
+}
+.Form3{
+  color:rgb(0, 0, 0);
+  text-size-adjust:10 ;
+  position: center;
+  width: 303px;
+  height: 49px;
+  
+  background: #fafafa;
+  border: 2px solid #161616;
+  box-sizing: border-box;
+  border-radius: 15px;
+  top: 200px;
+}
+.But{
+  position: center;
+width: 97px;
+height: 23px;
+
+top: 700px;
+border-color: rgb(33, 61, 6);
+background: #2D8236;
+}
+#leftBlock{
+  float:center; 
+  background:rgb(250, 250, 250);
+  width: 350px;
+  height:500px;
+  border-radius: 25px;
+  margin: auto;
+}
+#rightBlock{
+  float:left; 
+  background-image: url("lifekit_poetryback_wide-6c18023b5d2075dd745b7faefedcf9a214fffe06.jpg");
+  background-size: cover;
+  width:100%;
+  height:900px;
+}
+
+.longStuff2{
+  width: 50%;
+height: 237px;
+border: 2px solid rgb(78, 44, 44);
+background: #dbd9d9;
+}
+.backrem{
+  float:left ;
+  top:0;
+  width :100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.longStuff{
+  border-radius: 25px;
+  width: 50%;
+height: 137px;
+border: 2px solid rgb(78, 44, 44);
+background: #ffffff;
+}
+.Persona{
+  text-decoration-color: thistle;
+}
+.Title{
+  
+  color: #14446b;
+  width:100%;
+
+  height: auto;
+  background-color: #ffffff; 
+}
+.form5{
+  margin: auto;
+  width: 50%;
+height: auto;
+border-radius: 25px;
+border: 2px solid #c5c5c5;
+background: #ffffff;
+}
+.btn3{
+  border-radius: 25px;
+  width: 158px;
+height: 35px;
+
+background: #b5c5b6;
+}
+.cl{
+  border-radius: 25px;
+  width: 158px;
+height: 35px;
+border-color: cadetblue;
+background: #b2d4cd;
+}
+.form2{
+  width: 50%;
+height: 46px;
+border-radius: 25px;
+border: 2px solid #161616;
+background: #ffffff;
+}
+.form3{
+  margin: auto;
+  width: 50%;
+height: 46px;
+border-radius: 25px;
+border: 2px solid #c5c5c5;
+background: #ffffff;
+}
+.form4{
+  margin: auto;
+  width: 80%;
+height: auto;
+border-radius: 25px;
+border: 2px solid #c5c5c5;
+background: #ffffff;
+
+}
+.Sblock{
+  background-image:none !important;
+  object-position: center;
+  margin :auto;
+  border-radius: 20px;
+  text-align: center;
+  width: 75%;
+  background-color: rgb(212, 212, 212);
+  box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25);
+  background-size: contain;
+  
+}
+.Block{
+  margin: 0;
+position: absolute;
+text-align: center;
+width: 100%;
+height: 1000px;
+
+}
+.Gri{
+grid-row: 1/2;
+grid-column: 1/1;
+}
+.Block2{
+  object-position:center;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  
+}
+.img3{
+  position:right;
+width: 70%;
+height: 100%;
+background-image: url("lifekit_poetryback_wide-6c18023b5d2075dd745b7faefedcf9a214fffe06.jpg");
+
+
+}
+.comtit{
+  text-align :left ;
+  width: 100%;
+  margin:auto  ;
+  background: #ffffff;
+}
+
+.postcom{
+  object-position: center;
+  text-align :left ;
+  width: 60%;
+  margin:auto ;
+  height: 40px;
+background: #ddd4d4;
+border-radius: 25px;
+}
+.combtn{
+  width: 41px;
+height: 40px;
+border-radius: 100%;
+background-image: url('images.png');
+background-size:cover;
+background-repeat: no-repeat;
+}
+.Link1{
+  border-radius: 10px;
+  text-decoration: none;
+  color:rgb(255, 255, 255) ;
+  width: 262px;
+height: 30px;
+position: center;
+background: #0d422e;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+.Link4{
+  border-radius: 10px;
+  text-decoration: none;
+  color:rgb(17, 16, 16) ;
+  width: auto;
+height: 30px;
+position: center;
+background: #dddddd;
+border: 1px solid #ffffff;
+box-sizing: border-box;
+}
+
+.limit{
+  object-position: center;
+  text-align: center;
+  max-width:400px ;
+  margin: auto;
+}
+.Limit{
+  margin: auto;
+  width: 75%;
+  height: auto;
+
+border-radius: 25px;
+border: 2px solid #c5c5c5;
+background: #dddbdb;
+  object-position: center;
+  text-align: center;
+  max-width:400px ;
+  margin: auto;
+}
+.you{
+  background-image: none;
+  float: center;
+  align-items: center;
+  object-position: center;
+  text-align: center;
+  width: 75%;
+  
+  margin:auto  ;
+  background-image: unset;
+  background-color: #FBF1F1;
+  
+  box-shadow: 0px 4px 4px rgba(99, 194, 248, 0.25);
+}
+.Avatar{
+  object-position: center;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 194px;
+height: 156px;
+border-radius: 100%;
+background: #FFFFFF;
+margin: auto;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
